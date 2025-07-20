@@ -1,0 +1,44 @@
+# 🧭 GPT Location Assistant
+
+**GPT Location Assistant** is an intelligent assistant powered by GPT models, designed to **automatically generate descriptions for public places** — cafés, shops, parks, beaches, hotels, and other locations.  
+It helps quickly and consistently fill out location profiles for websites, catalogs, travel guides, or services like Google Maps or 2GIS.
+
+> 💡 The assistant transforms dry factual input into vivid, engaging descriptions that build trust and spark user interest.
+
+---
+
+## ✨ Key Features
+
+- 📝 Text generation based on brief structured input (name, type, location, etc.)
+- 📍 Identification of geographic context (local area, province)
+- 🔗 Optional enrichment with links: website, social media, email
+- 🌐 Multilingual support (depending on data availability)
+- ⚙️ Output formatting ready for publication or database entry
+
+---
+
+## 🎯 Why It Matters
+
+Hundreds of companies, marketplaces, and travel platforms manually describe and upload locations every day. This process:
+
+- takes **10 to 30 minutes per place** (research, writing, editing);
+- leads to **inconsistent, non-standardized content**;
+- depends heavily on the skills of editors or copywriters;
+- slows down onboarding and product launch timelines.
+
+📉 **GPT Location Assistant** solves these problems:
+
+- generates location descriptions in just **5–10 seconds**;
+- standardizes format and tone of output;
+- improves quality even without human editing;
+- reduces manual workload **by 10–50x**, enabling rapid scaling.
+
+> 💡 Instead of 5–6 hours to describe 10 places — get results in **under 1 minute**.
+
+---
+
+## 🛠 Technologies Used
+
+- **LLM model:** OpenAI GPT-4o  
+- **Input format:** natural language, with optional screenshots or images for contextual analysis  
+- **Output format:** marketing-style description + structured contact data
