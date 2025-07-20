@@ -11,7 +11,6 @@ It helps quickly and consistently fill out location profiles for websites, catal
 
 - 📝 Text generation based on brief structured input (name, type, location, etc.)
 - 📍 Identification of geographic context (local area, province)
-- 🔗 Optional enrichment with links: website, social media, email
 - 🌐 Multilingual support (depending on data availability)
 - ⚙️ Output formatting ready for publication or database entry
 
@@ -41,4 +40,4 @@ Hundreds of companies, marketplaces, and travel platforms manually describe and 
 
 - **LLM model:** OpenAI GPT-4o  
 - **Input format:** natural language, with optional screenshots or images for contextual analysis  
-- **Output format:** marketing-style description + structured contact data
+- **Output format:** marketing-style description
